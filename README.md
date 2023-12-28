@@ -20,7 +20,7 @@ A simple React-based travel journal showcasing different travel destinations.Thi
 - Explored the use of reusable components to maintain a modular code structure.
   
 ### Acknowledgments
-Many thanks to [this website](https://scrimba.com/) for teaching me React library.
+Many thanks to [scrimba](https://scrimba.com/) for teaching me React library.
 
 ### Related Projects:question: 👨‍💻 🛰️
 
