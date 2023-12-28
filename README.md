@@ -4,7 +4,7 @@ A simple React-based travel journal showcasing different travel destinations.Thi
 
 ## Screenshot
 
-<p align="center"><img align="center" src = "https://raw.githubusercontent.com/vinhphuphan/travel-journal-react-practice/main/src/assets/travel-journey-screenshort.png"></img></p>
+<p align="center"><img align="center" src = "https://raw.githubusercontent.com/vinhphuphan/travel-journal-react-practice/main/src/assets/travel-journey-screenshort.png" width = "343px" height="538px" ></img></p>
 
 ## My process
 
